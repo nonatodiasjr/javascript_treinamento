@@ -42,3 +42,24 @@ console.log(2 <= 2) // true
 console.log(2 > 3) // false
 console.log(2 < 3) // true
 */
+
+/* const names = ['Lucas', 'Felipe', 'João', 'Maria', 'Ana', 'Pedro']
+
+const joao = names[2]
+
+names.push('Elias')
+
+names.unshift('Luana')
+
+console.log(names) // ['Felipe', 'João', 'Maria', 'Ana', 'Pedro', 'Elias']
+
+console.log(names.length) //
+console.log(names[0]) // Luana
+
+const sortedNames = names.sort() // ['Ana', 'Elias', 'Felipe', 'João', 'Luana', 'Maria', 'Pedro']
+const namesIsArray = Array.isArray(names)
+
+console.log(sortedNames) // ['Ana', 'Elias', 'Felipe', 'João', 'Luana', 'Maria', 'Pedro']
+console.log(namesIsArray) // true
+console.log(names)
+console.log(names.indexOf('Maria')) // 5  */
